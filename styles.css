@@ -21,7 +21,7 @@ body {
 }
 
 .points {
-    width: 100%;
+    width: calc(100% - 60px);
     max-width: 600px;
     height: 70%;
     margin: 50px auto;
